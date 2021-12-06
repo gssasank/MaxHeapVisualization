@@ -1,11 +1,14 @@
-# MaxHeapVisualization
-JavaFX based visalization for Max Heap data stucture
+# Max Heap Visualization
 
 ---
 
 ## Project for the course CSD203: Introduction to Object Oriented Programing, Monsoon 2020
 
 ---
+
+JavaFX based visalization for Max Heap data stucture
+
+
 ### Insert Functionality: (Inserts elements in pre-order)
 
 ![image](https://user-images.githubusercontent.com/62089940/124225270-c6782400-db24-11eb-81d4-a486a7a7e954.png)
